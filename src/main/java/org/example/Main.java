@@ -12,7 +12,7 @@ public class Main {
         logger.info("Execution Started");
 
         while (true) {
-            System.out.println("Hello!");
+            System.out.println("Hello there!");
             System.out.println("Choose an operation: ");
             System.out.println("1. Addition (+)");
             System.out.println("2. Subtraction (-)");
